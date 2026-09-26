@@ -1,0 +1,8 @@
+/* Touch-friendly layout for current iPhone Safari viewports. */
+.hero::after{pointer-events:none}
+@media(max-width:700px){
+  .shell{padding-top:env(safe-area-inset-top)}
+  .nav button{min-height:44px;min-width:70px;touch-action:manipulation}
+  .primary,.secondary,.smallbtn,.speaker,.word{touch-action:manipulation}
+  .controls select{max-width:100%}
+}

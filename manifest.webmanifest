@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Petite Lecture — フランス語読書",
+  "short_name": "Petite Lecture",
+  "description": "短いフランス語の物語を読みながら語句を学ぶアプリ",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f7f2",
+  "theme_color": "#37634d",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

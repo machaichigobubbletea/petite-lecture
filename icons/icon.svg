@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#37634d"/>
+  <path d="M256 78c-98 0-158 70-158 178 0 103 58 178 158 178s158-75 158-178C414 148 354 78 256 78Z" fill="none" stroke="#d5eb91" stroke-width="18"/>
+  <text x="256" y="334" text-anchor="middle" font-family="Georgia,serif" font-size="260" font-weight="bold" fill="#d5eb91">é</text>
+</svg>
