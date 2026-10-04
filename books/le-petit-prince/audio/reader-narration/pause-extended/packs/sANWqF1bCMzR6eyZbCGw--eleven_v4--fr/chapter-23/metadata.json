@@ -1,0 +1,43 @@
+{
+  "bookId": "le-petit-prince",
+  "chapterId": "chapter-23",
+  "styleId": "v4-b-comfort",
+  "voiceId": "sANWqF1bCMzR6eyZbCGw",
+  "modelId": "eleven_v4",
+  "languageCode": "fr",
+  "stability": 0.4,
+  "audioTags": [],
+  "sourceAudioChecksum": "697e7cd482549cd6ebc2cd15b558397a31a5c7c755a3f439cba1d371afc9f649",
+  "outputAudioChecksum": "2a7c3b508482db7edae3e604d3ed4eaa1a11683972641b0c4b3c51d6325db0db",
+  "sourceDurationSeconds": 34.88,
+  "outputDurationSeconds": 36.754285714285714,
+  "fileSize": 588067,
+  "processingVersion": 1,
+  "pauseProcessing": {
+    "thresholdDbfs": -45.0,
+    "minimumSilenceSeconds": 0.12,
+    "mediumPauseRange": {
+      "minSeconds": 0.4,
+      "maxSecondsExclusive": 0.8
+    },
+    "mediumPauseExtensionSeconds": 0.15,
+    "longPauseMinimumSeconds": 0.8,
+    "longPauseExtensionSeconds": 0.3,
+    "frameSeconds": 0.02,
+    "leadingAndTrailingSilenceExtended": false,
+    "modifiedPauseCount": 11,
+    "mediumModifiedCount": 10,
+    "longModifiedCount": 1,
+    "addedSilenceSeconds": 1.8
+  },
+  "speechTimeStretched": false,
+  "pitchChanged": false,
+  "gainChanged": false,
+  "equalizationApplied": false,
+  "compressionApplied": false,
+  "noiseReductionApplied": false,
+  "originalPcmPreservedBeforeEncoding": true,
+  "mp3Reencoded": true,
+  "warnings": [],
+  "processedAt": "2026-10-04T04:24:35.504605+00:00"
+}

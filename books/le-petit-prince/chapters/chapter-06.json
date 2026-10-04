@@ -1,0 +1,459 @@
+{
+  "id": "chapter_06",
+  "number": 6,
+  "title": "CHAPITRE VI",
+  "language": "fr",
+  "textVersion": "pga-0300771h-import-v1",
+  "sourceEdition": "project-gutenberg-australia-0300771h",
+  "sourceReference": "#ppchap6",
+  "paragraphs": [
+    {
+      "id": "chapter_06_paragraph_001",
+      "sentenceIds": [
+        "chapter_06_sentence_001",
+        "chapter_06_sentence_002",
+        "chapter_06_sentence_003"
+      ],
+      "sourceReference": "#ppchap6:p1"
+    },
+    {
+      "id": "chapter_06_paragraph_002",
+      "sentenceIds": [
+        "chapter_06_sentence_004",
+        "chapter_06_sentence_005"
+      ],
+      "sourceReference": "#ppchap6:p2"
+    },
+    {
+      "id": "chapter_06_paragraph_003",
+      "sentenceIds": [
+        "chapter_06_sentence_006"
+      ],
+      "sourceReference": "#ppchap6:p3"
+    },
+    {
+      "id": "chapter_06_paragraph_004",
+      "sentenceIds": [
+        "chapter_06_sentence_007"
+      ],
+      "sourceReference": "#ppchap6:p4"
+    },
+    {
+      "id": "chapter_06_paragraph_005",
+      "sentenceIds": [
+        "chapter_06_sentence_008"
+      ],
+      "sourceReference": "#ppchap6:p5"
+    },
+    {
+      "id": "chapter_06_paragraph_006",
+      "sentenceIds": [
+        "chapter_06_sentence_009",
+        "chapter_06_sentence_010"
+      ],
+      "sourceReference": "#ppchap6:p6"
+    },
+    {
+      "id": "chapter_06_paragraph_007",
+      "sentenceIds": [
+        "chapter_06_sentence_011"
+      ],
+      "sourceReference": "#ppchap6:p7"
+    },
+    {
+      "id": "chapter_06_paragraph_008",
+      "sentenceIds": [
+        "chapter_06_sentence_012",
+        "chapter_06_sentence_013",
+        "chapter_06_sentence_014",
+        "chapter_06_sentence_015",
+        "chapter_06_sentence_016",
+        "chapter_06_sentence_017"
+      ],
+      "sourceReference": "#ppchap6:p8"
+    },
+    {
+      "id": "chapter_06_paragraph_009",
+      "sentenceIds": [
+        "chapter_06_sentence_018"
+      ],
+      "sourceReference": "#ppchap6:p9"
+    },
+    {
+      "id": "chapter_06_paragraph_010",
+      "sentenceIds": [
+        "chapter_06_sentence_019"
+      ],
+      "sourceReference": "#ppchap6:p10"
+    },
+    {
+      "id": "chapter_06_paragraph_011",
+      "sentenceIds": [
+        "chapter_06_sentence_020"
+      ],
+      "sourceReference": "#ppchap6:p11"
+    },
+    {
+      "id": "chapter_06_paragraph_012",
+      "sentenceIds": [
+        "chapter_06_sentence_021",
+        "chapter_06_sentence_022"
+      ],
+      "sourceReference": "#ppchap6:p12"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "chapter_06_sentence_001",
+      "originalFrench": "Ah! petit prince, j'ai compris, peu à peu, ainsi, ta petite vie mélancolique.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p1:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_002",
+      "originalFrench": "Tu n'avais eu longtemps pour distraction que la douceur des couchers du soleil.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p1:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_003",
+      "originalFrench": "J'ai appris ce détail nouveau, le quatrième jour au matin, quand tu m'as dit:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p1:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_004",
+      "originalFrench": "-J'aime bien les couchers de soleil.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p2:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_002",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_005",
+      "originalFrench": "Allons voir un coucher de soleil...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p2:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_002",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_006",
+      "originalFrench": "-Mais il faut attendre...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p3:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_003",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_007",
+      "originalFrench": "-Attendre quoi?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p4:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_004",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_008",
+      "originalFrench": "-Attendre que le soleil se couche.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p5:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_005",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_009",
+      "originalFrench": "Tu as eu l'air très surpris d'abord, et puis tu as ri de toi-même.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p6:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_006",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_010",
+      "originalFrench": "Et tu m'as dit:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p6:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_006",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_011",
+      "originalFrench": "-Je me crois toujours chez moi!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p7:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_007",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_012",
+      "originalFrench": "En effet.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p8:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_008",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_013",
+      "originalFrench": "Quand il est midi aux Etats-Unis, le soleil, tout le monde le sait, se couche sur la France.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p8:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_008",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_014",
+      "originalFrench": "Il suffirait de pouvoir aller en France en une minute pour assister au coucher du soleil.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p8:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_008",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_015",
+      "originalFrench": "Malheureusement la France est bien trop éloignée.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p8:s4",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_008",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_016",
+      "originalFrench": "Mais, sur ta si petite planète, il te suffisait de tirer ta chaise de quelques pas.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p8:s5",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_008",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_017",
+      "originalFrench": "Et tu regardais le crépuscule chaque fois que tu le désirais...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p8:s6",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_008",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_018",
+      "originalFrench": "-Un jour, j'ai vu le soleil se coucher quarante-quatre fois!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p9:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_009",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_019",
+      "originalFrench": "Et un peu plus tard tu ajoutais:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p10:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_010",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_020",
+      "originalFrench": "-Tu sais...quand on est tellement triste on aime les couchers de soleil...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p11:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_011",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_021",
+      "originalFrench": "-Le jour des quarante-trois fois tu étais donc tellement triste?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p12:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_012",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_06_sentence_022",
+      "originalFrench": "Mais le petit prince ne répondit pas.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap6:p12:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_06_paragraph_012",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    }
+  ]
+}

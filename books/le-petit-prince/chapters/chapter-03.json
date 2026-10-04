@@ -1,0 +1,1003 @@
+{
+  "id": "chapter_03",
+  "number": 3,
+  "title": "CHAPITRE III",
+  "language": "fr",
+  "textVersion": "pga-0300771h-import-v1",
+  "sourceEdition": "project-gutenberg-australia-0300771h",
+  "sourceReference": "#ppchap3",
+  "paragraphs": [
+    {
+      "id": "chapter_03_paragraph_001",
+      "sentenceIds": [
+        "chapter_03_sentence_001",
+        "chapter_03_sentence_002",
+        "chapter_03_sentence_003",
+        "chapter_03_sentence_004"
+      ],
+      "sourceReference": "#ppchap3:p1"
+    },
+    {
+      "id": "chapter_03_paragraph_002",
+      "sentenceIds": [
+        "chapter_03_sentence_005"
+      ],
+      "sourceReference": "#ppchap3:p2"
+    },
+    {
+      "id": "chapter_03_paragraph_003",
+      "sentenceIds": [
+        "chapter_03_sentence_006",
+        "chapter_03_sentence_007",
+        "chapter_03_sentence_008",
+        "chapter_03_sentence_009"
+      ],
+      "sourceReference": "#ppchap3:p3"
+    },
+    {
+      "id": "chapter_03_paragraph_004",
+      "sentenceIds": [
+        "chapter_03_sentence_010",
+        "chapter_03_sentence_011"
+      ],
+      "sourceReference": "#ppchap3:p4"
+    },
+    {
+      "id": "chapter_03_paragraph_005",
+      "sentenceIds": [
+        "chapter_03_sentence_012"
+      ],
+      "sourceReference": "#ppchap3:p5"
+    },
+    {
+      "id": "chapter_03_paragraph_006",
+      "sentenceIds": [
+        "chapter_03_sentence_013"
+      ],
+      "sourceReference": "#ppchap3:p6"
+    },
+    {
+      "id": "chapter_03_paragraph_007",
+      "sentenceIds": [
+        "chapter_03_sentence_014"
+      ],
+      "sourceReference": "#ppchap3:p7"
+    },
+    {
+      "id": "chapter_03_paragraph_008",
+      "sentenceIds": [
+        "chapter_03_sentence_015",
+        "chapter_03_sentence_016",
+        "chapter_03_sentence_017"
+      ],
+      "sourceReference": "#ppchap3:p8"
+    },
+    {
+      "id": "chapter_03_paragraph_009",
+      "sentenceIds": [
+        "chapter_03_sentence_018",
+        "chapter_03_sentence_019"
+      ],
+      "sourceReference": "#ppchap3:p9"
+    },
+    {
+      "id": "chapter_03_paragraph_010",
+      "sentenceIds": [
+        "chapter_03_sentence_020"
+      ],
+      "sourceReference": "#ppchap3:p10"
+    },
+    {
+      "id": "chapter_03_paragraph_011",
+      "sentenceIds": [
+        "chapter_03_sentence_021"
+      ],
+      "sourceReference": "#ppchap3:p11"
+    },
+    {
+      "id": "chapter_03_paragraph_012",
+      "sentenceIds": [
+        "chapter_03_sentence_022",
+        "chapter_03_sentence_023"
+      ],
+      "sourceReference": "#ppchap3:p12"
+    },
+    {
+      "id": "chapter_03_paragraph_013",
+      "sentenceIds": [
+        "chapter_03_sentence_024"
+      ],
+      "sourceReference": "#ppchap3:p13"
+    },
+    {
+      "id": "chapter_03_paragraph_014",
+      "sentenceIds": [
+        "chapter_03_sentence_025",
+        "chapter_03_sentence_026"
+      ],
+      "sourceReference": "#ppchap3:p14"
+    },
+    {
+      "id": "chapter_03_paragraph_015",
+      "sentenceIds": [
+        "chapter_03_sentence_027",
+        "chapter_03_sentence_028"
+      ],
+      "sourceReference": "#ppchap3:p15"
+    },
+    {
+      "id": "chapter_03_paragraph_016",
+      "sentenceIds": [
+        "chapter_03_sentence_029",
+        "chapter_03_sentence_030",
+        "chapter_03_sentence_031"
+      ],
+      "sourceReference": "#ppchap3:p16"
+    },
+    {
+      "id": "chapter_03_paragraph_017",
+      "sentenceIds": [
+        "chapter_03_sentence_032"
+      ],
+      "sourceReference": "#ppchap3:p17"
+    },
+    {
+      "id": "chapter_03_paragraph_018",
+      "sentenceIds": [
+        "chapter_03_sentence_033"
+      ],
+      "sourceReference": "#ppchap3:p18"
+    },
+    {
+      "id": "chapter_03_paragraph_019",
+      "sentenceIds": [
+        "chapter_03_sentence_034",
+        "chapter_03_sentence_035",
+        "chapter_03_sentence_036"
+      ],
+      "sourceReference": "#ppchap3:p19"
+    },
+    {
+      "id": "chapter_03_paragraph_020",
+      "sentenceIds": [
+        "chapter_03_sentence_037"
+      ],
+      "sourceReference": "#ppchap3:p20"
+    },
+    {
+      "id": "chapter_03_paragraph_021",
+      "sentenceIds": [
+        "chapter_03_sentence_038",
+        "chapter_03_sentence_039"
+      ],
+      "sourceReference": "#ppchap3:p21"
+    },
+    {
+      "id": "chapter_03_paragraph_022",
+      "sentenceIds": [
+        "chapter_03_sentence_040"
+      ],
+      "sourceReference": "#ppchap3:p22"
+    },
+    {
+      "id": "chapter_03_paragraph_023",
+      "sentenceIds": [
+        "chapter_03_sentence_041"
+      ],
+      "sourceReference": "#ppchap3:p23"
+    },
+    {
+      "id": "chapter_03_paragraph_024",
+      "sentenceIds": [
+        "chapter_03_sentence_042"
+      ],
+      "sourceReference": "#ppchap3:p24"
+    },
+    {
+      "id": "chapter_03_paragraph_025",
+      "sentenceIds": [
+        "chapter_03_sentence_043",
+        "chapter_03_sentence_044"
+      ],
+      "sourceReference": "#ppchap3:p25"
+    },
+    {
+      "id": "chapter_03_paragraph_026",
+      "sentenceIds": [
+        "chapter_03_sentence_045"
+      ],
+      "sourceReference": "#ppchap3:p26"
+    },
+    {
+      "id": "chapter_03_paragraph_027",
+      "sentenceIds": [
+        "chapter_03_sentence_046"
+      ],
+      "sourceReference": "#ppchap3:p27"
+    },
+    {
+      "id": "chapter_03_paragraph_028",
+      "sentenceIds": [
+        "chapter_03_sentence_047"
+      ],
+      "sourceReference": "#ppchap3:p28"
+    },
+    {
+      "id": "chapter_03_paragraph_029",
+      "sentenceIds": [
+        "chapter_03_sentence_048"
+      ],
+      "sourceReference": "#ppchap3:p29"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "chapter_03_sentence_001",
+      "originalFrench": "Il me fallut longtemps pour comprendre d'où il venait.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p1:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_002",
+      "originalFrench": "Le petit prince, qui me posait beaucoup de questions, ne semblait jamais entendre les miennes.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p1:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_003",
+      "originalFrench": "Ce sont des mots prononcés par hasard qui, peu à peu, m'ont tout révélé.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p1:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_004",
+      "originalFrench": "Ainsi, quand il aperçu pour la première fois mon avion (je ne dessinerai pas mon avion, c'est un dessin beaucoup trop compliqué pour moi) il me demanda:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p1:s4",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_005",
+      "originalFrench": "-Qu'est ce que c'est que cette chose-là?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p2:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_002",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_006",
+      "originalFrench": "-Ce n'est pas une chose.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p3:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_003",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_007",
+      "originalFrench": "Ça vole.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p3:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_003",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_008",
+      "originalFrench": "C'est un avion.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p3:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_003",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_009",
+      "originalFrench": "C'est mon avion.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p3:s4",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_003",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_010",
+      "originalFrench": "Et j'étais fier de lui apprendre que je volais.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p4:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_004",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_011",
+      "originalFrench": "Alors il s'écria:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p4:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_004",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_012",
+      "originalFrench": "-Comment! tu es tombé du ciel!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p5:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_005",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_013",
+      "originalFrench": "-Oui, fis-je modestement.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p6:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_006",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_014",
+      "originalFrench": "-Ah! ça c'est drôle!...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p7:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_007",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_015",
+      "originalFrench": "Et le petit prince eut un très joli éclat de rire qui m'irrita beaucoup.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p8:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_008",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_016",
+      "originalFrench": "Je désire que l'on prenne mes malheurs au sérieux.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p8:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_008",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_017",
+      "originalFrench": "Puis il ajouta:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p8:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_008",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_018",
+      "originalFrench": "-Alors, toi aussi tu viens du ciel!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p9:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_009",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_019",
+      "originalFrench": "De quelle planète es-tu?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p9:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_009",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_020",
+      "originalFrench": "J'entrevis aussitôt une lueur, dans le mystère de sa présence, et j'interrogeai brusquement:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p10:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_010",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_021",
+      "originalFrench": "-Tu viens donc d'une autre planète?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p11:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_011",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_022",
+      "originalFrench": "Mais il ne me répondit pas.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p12:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_012",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_023",
+      "originalFrench": "Il hochait la tête doucement tout en regardant mon avion:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p12:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_012",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_024",
+      "originalFrench": "-C'est vrai que, là-dessus, tu ne peux pas venir de bien loin...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p13:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_013",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_025",
+      "originalFrench": "Et il s'enfonça dans une rêverie qui dura longtemps.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p14:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_014",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_026",
+      "originalFrench": "Puis, sortant mon mouton de sa poche, il se plongea dans la contemplation de son trésor.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p14:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_014",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_027",
+      "originalFrench": "Vous imaginez combien j'avais pu être intrigué par cette demi-confidence sur \"les autres planètes\".",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p15:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_015",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_028",
+      "originalFrench": "Je m'efforçai donc d'en savoir plus long:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p15:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_015",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_029",
+      "originalFrench": "-D'où viens-tu, mon petit bonhomme?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p16:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_016",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_030",
+      "originalFrench": "Où est-ce \"chez toi\"?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p16:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_016",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_031",
+      "originalFrench": "Où veux-tu emporter mon mouton?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p16:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_016",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_032",
+      "originalFrench": "Il me répondit après un silence méditatif:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p17:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_017",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_033",
+      "originalFrench": "-Ce qui est bien, avec la caisse que tu m'as donnée, c'est que, la nuit, ça lui servira de maison.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p18:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_018",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_034",
+      "originalFrench": "-Bien sûr.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p19:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_019",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_035",
+      "originalFrench": "Et si tu es gentil, je te donnerai aussi une corde pour l'attacher pendant le jour.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p19:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_019",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_036",
+      "originalFrench": "Et un piquet.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p19:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_019",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_037",
+      "originalFrench": "La proposition parut choquer le petit prince:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p20:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_020",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_038",
+      "originalFrench": "-L'attacher?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p21:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_021",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_039",
+      "originalFrench": "Quelle drôle d'idée!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p21:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_021",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_040",
+      "originalFrench": "-Mais si tu ne l'attaches pas, il ira n'importe où, et il se perdra...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p22:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_022",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_041",
+      "originalFrench": "Et mon ami eut un nouvel éclat de rire:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p23:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_023",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_042",
+      "originalFrench": "-Mais où veux-tu qu'il aille!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p24:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_024",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_043",
+      "originalFrench": "-N'importe où.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p25:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_025",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_044",
+      "originalFrench": "Droit devant lui...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p25:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_025",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_045",
+      "originalFrench": "Alors le petit prince remarqua gravement:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p26:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_026",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_046",
+      "originalFrench": "-Ça ne fait rien, c'est tellement petit, chez moi!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p27:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_027",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_047",
+      "originalFrench": "Et, avec un peu de mélancolie, peut-être, il ajouta:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p28:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_028",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_03_sentence_048",
+      "originalFrench": "-Droit devant soi on ne peut pas aller bien loin...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap3:p29:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_03_paragraph_029",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    }
+  ]
+}

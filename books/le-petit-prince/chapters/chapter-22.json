@@ -1,0 +1,506 @@
+{
+  "id": "chapter_22",
+  "number": 22,
+  "title": "CHAPITRE XXII",
+  "language": "fr",
+  "textVersion": "pga-0300771h-import-v1",
+  "sourceEdition": "project-gutenberg-australia-0300771h",
+  "sourceReference": "#ppchap22",
+  "paragraphs": [
+    {
+      "id": "chapter_22_paragraph_001",
+      "sentenceIds": [
+        "chapter_22_sentence_001"
+      ],
+      "sourceReference": "#ppchap22:p1"
+    },
+    {
+      "id": "chapter_22_paragraph_002",
+      "sentenceIds": [
+        "chapter_22_sentence_002"
+      ],
+      "sourceReference": "#ppchap22:p2"
+    },
+    {
+      "id": "chapter_22_paragraph_003",
+      "sentenceIds": [
+        "chapter_22_sentence_003"
+      ],
+      "sourceReference": "#ppchap22:p3"
+    },
+    {
+      "id": "chapter_22_paragraph_004",
+      "sentenceIds": [
+        "chapter_22_sentence_004",
+        "chapter_22_sentence_005"
+      ],
+      "sourceReference": "#ppchap22:p4"
+    },
+    {
+      "id": "chapter_22_paragraph_005",
+      "sentenceIds": [
+        "chapter_22_sentence_006"
+      ],
+      "sourceReference": "#ppchap22:p5"
+    },
+    {
+      "id": "chapter_22_paragraph_006",
+      "sentenceIds": [
+        "chapter_22_sentence_007",
+        "chapter_22_sentence_008"
+      ],
+      "sourceReference": "#ppchap22:p6"
+    },
+    {
+      "id": "chapter_22_paragraph_007",
+      "sentenceIds": [
+        "chapter_22_sentence_009"
+      ],
+      "sourceReference": "#ppchap22:p7"
+    },
+    {
+      "id": "chapter_22_paragraph_008",
+      "sentenceIds": [
+        "chapter_22_sentence_010"
+      ],
+      "sourceReference": "#ppchap22:p8"
+    },
+    {
+      "id": "chapter_22_paragraph_009",
+      "sentenceIds": [
+        "chapter_22_sentence_011"
+      ],
+      "sourceReference": "#ppchap22:p9"
+    },
+    {
+      "id": "chapter_22_paragraph_010",
+      "sentenceIds": [
+        "chapter_22_sentence_012",
+        "chapter_22_sentence_013"
+      ],
+      "sourceReference": "#ppchap22:p10"
+    },
+    {
+      "id": "chapter_22_paragraph_011",
+      "sentenceIds": [
+        "chapter_22_sentence_014"
+      ],
+      "sourceReference": "#ppchap22:p11"
+    },
+    {
+      "id": "chapter_22_paragraph_012",
+      "sentenceIds": [
+        "chapter_22_sentence_015"
+      ],
+      "sourceReference": "#ppchap22:p12"
+    },
+    {
+      "id": "chapter_22_paragraph_013",
+      "sentenceIds": [
+        "chapter_22_sentence_016"
+      ],
+      "sourceReference": "#ppchap22:p13"
+    },
+    {
+      "id": "chapter_22_paragraph_014",
+      "sentenceIds": [
+        "chapter_22_sentence_017"
+      ],
+      "sourceReference": "#ppchap22:p14"
+    },
+    {
+      "id": "chapter_22_paragraph_015",
+      "sentenceIds": [
+        "chapter_22_sentence_018",
+        "chapter_22_sentence_019",
+        "chapter_22_sentence_020"
+      ],
+      "sourceReference": "#ppchap22:p15"
+    },
+    {
+      "id": "chapter_22_paragraph_016",
+      "sentenceIds": [
+        "chapter_22_sentence_021",
+        "chapter_22_sentence_022"
+      ],
+      "sourceReference": "#ppchap22:p16"
+    },
+    {
+      "id": "chapter_22_paragraph_017",
+      "sentenceIds": [
+        "chapter_22_sentence_023"
+      ],
+      "sourceReference": "#ppchap22:p17"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "chapter_22_sentence_001",
+      "originalFrench": "-Bonjour, dit le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p1:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_002",
+      "originalFrench": "-Bonjour, dit l'aiguilleur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p2:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_002",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_003",
+      "originalFrench": "-Que fais-tu ici? dit le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p3:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_003",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_004",
+      "originalFrench": "-Je trie les voyageurs, par paquets de mille, dit l'aiguilleur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p4:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_004",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_005",
+      "originalFrench": "J'expédie les trains qui les emportent, tantôt vers la droite, tantôt vers la gauche.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p4:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_004",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_006",
+      "originalFrench": "Et un rapide illuminé, grondant comme le tonnerre, fit trembler la cabine d'aiguillage.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p5:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_005",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_007",
+      "originalFrench": "-Ils sont bien pressés, dit le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p6:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_006",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_008",
+      "originalFrench": "Que cherchent-ils?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p6:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_006",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_009",
+      "originalFrench": "-L'homme de la locomotive l'ignore lui-même, dit l'aiguilleur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p7:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_007",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_010",
+      "originalFrench": "Et gronda, en sens inverse, un second rapide illuminé.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p8:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_008",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_011",
+      "originalFrench": "-Ils reviennent déjà? demanda le petit prince...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p9:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_009",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_012",
+      "originalFrench": "-Ce ne sont pas les mêmes, dit l'aiguilleur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p10:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_010",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_013",
+      "originalFrench": "C'est un échange.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p10:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_010",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_014",
+      "originalFrench": "-Ils n'étaient pas contents, là où ils étaient?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p11:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_011",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_015",
+      "originalFrench": "-On n'est jamais content là où on est, dit l'aiguilleur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p12:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_012",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_016",
+      "originalFrench": "Et gronda le tonnerre d'un troisième rapide illuminé.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p13:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_013",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_017",
+      "originalFrench": "-Ils poursuivent les premiers voyageurs? demanda le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p14:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_014",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_018",
+      "originalFrench": "-Ils ne poursuivent rien du tout, dit l'aiguilleur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p15:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_015",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_019",
+      "originalFrench": "Ils dorment là-dedans, ou bien ils bâillent.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p15:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_015",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_020",
+      "originalFrench": "Les enfants seuls écrasent leur nez contre les vitres.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p15:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_015",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_021",
+      "originalFrench": "-Les enfants seuls savent ce qu'ils cherchent, fit le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p16:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_016",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_022",
+      "originalFrench": "Ils perdent du temps pour une poupée de chiffons, et elle devient très importante, et si on la leur enlève, ils pleurent...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p16:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_016",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_22_sentence_023",
+      "originalFrench": "-Ils ont de la chance, dit l'aiguilleur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap22:p17:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_22_paragraph_017",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    }
+  ]
+}

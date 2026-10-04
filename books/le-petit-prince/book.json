@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 2,
+  "bookId": "le-petit-prince",
+  "title": "Le Petit Prince",
+  "author": "Antoine de Saint-Exupéry",
+  "language": "fr",
+  "source": {
+    "sourceId": "project-gutenberg-australia-0300771h",
+    "sourceName": "Project Gutenberg Australia",
+    "sourceUrl": "https://www.gutenberg.net.au/ebooks03/0300771h.html",
+    "sourceRetrievedAt": "2026-09-27T15:48:48Z",
+    "sourceFile": "source/project-gutenberg-australia.html",
+    "sourceCharset": "iso-8859-1",
+    "sourceSha256": "be4b35be4e4fea4a55c48a9e68f5d8a183d71817c4579f280af7f3919caf3e4e",
+    "sourceByteLength": 100506,
+    "sourcePageTitle": "Le Petit Prince By Antoine de Saint-Exupéry",
+    "languageVerified": "French",
+    "chapterCount": 27,
+    "transformation": "Generated from the single original HTML source file by import_source.py; original source bytes are preserved.",
+    "rightsReview": "Not assessed by this data file. Check applicable permissions before publication."
+  },
+  "masterEdition": {
+    "editionId": "gallimard-folio-3200",
+    "publisher": "Gallimard",
+    "editionName": "Folio No. 3200",
+    "isbn": "978-2-07-040850-4",
+    "publicationInfo": null,
+    "masterTextVersion": "gallimard-folio-3200-v1",
+    "metadataSource": "project-owner-specified",
+    "comparisonStatus": "not-compared"
+  },
+  "textVersion": "pga-0300771h-import-v1",
+  "frontMatter": "front-matter.json",
+  "plannedChapterCount": 27,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "number": 1,
+      "title": "PREMIER CHAPITRE",
+      "file": "chapters/chapter-01.json"
+    },
+    {
+      "id": "chapter_02",
+      "number": 2,
+      "title": "CHAPITRE II",
+      "file": "chapters/chapter-02.json"
+    },
+    {
+      "id": "chapter_03",
+      "number": 3,
+      "title": "CHAPITRE III",
+      "file": "chapters/chapter-03.json"
+    },
+    {
+      "id": "chapter_04",
+      "number": 4,
+      "title": "CHAPITRE IV",
+      "file": "chapters/chapter-04.json"
+    },
+    {
+      "id": "chapter_05",
+      "number": 5,
+      "title": "CHAPITRE V",
+      "file": "chapters/chapter-05.json"
+    },
+    {
+      "id": "chapter_06",
+      "number": 6,
+      "title": "CHAPITRE VI",
+      "file": "chapters/chapter-06.json"
+    },
+    {
+      "id": "chapter_07",
+      "number": 7,
+      "title": "CHAPITRE VII",
+      "file": "chapters/chapter-07.json"
+    },
+    {
+      "id": "chapter_08",
+      "number": 8,
+      "title": "CHAPITRE VIII",
+      "file": "chapters/chapter-08.json"
+    },
+    {
+      "id": "chapter_09",
+      "number": 9,
+      "title": "CHAPITRE IX",
+      "file": "chapters/chapter-09.json"
+    },
+    {
+      "id": "chapter_10",
+      "number": 10,
+      "title": "CHAPITRE X",
+      "file": "chapters/chapter-10.json"
+    },
+    {
+      "id": "chapter_11",
+      "number": 11,
+      "title": "CHAPITRE XI",
+      "file": "chapters/chapter-11.json"
+    },
+    {
+      "id": "chapter_12",
+      "number": 12,
+      "title": "CHAPITRE XII",
+      "file": "chapters/chapter-12.json"
+    },
+    {
+      "id": "chapter_13",
+      "number": 13,
+      "title": "CHAPITRE XIII",
+      "file": "chapters/chapter-13.json"
+    },
+    {
+      "id": "chapter_14",
+      "number": 14,
+      "title": "CHAPITRE XIV",
+      "file": "chapters/chapter-14.json"
+    },
+    {
+      "id": "chapter_15",
+      "number": 15,
+      "title": "CHAPITRE XV",
+      "file": "chapters/chapter-15.json"
+    },
+    {
+      "id": "chapter_16",
+      "number": 16,
+      "title": "CHAPITRE XVI",
+      "file": "chapters/chapter-16.json"
+    },
+    {
+      "id": "chapter_17",
+      "number": 17,
+      "title": "CHAPITRE XVII",
+      "file": "chapters/chapter-17.json"
+    },
+    {
+      "id": "chapter_18",
+      "number": 18,
+      "title": "CHAPITRE XVIII",
+      "file": "chapters/chapter-18.json"
+    },
+    {
+      "id": "chapter_19",
+      "number": 19,
+      "title": "CHAPITRE XIX",
+      "file": "chapters/chapter-19.json"
+    },
+    {
+      "id": "chapter_20",
+      "number": 20,
+      "title": "CHAPITRE XX",
+      "file": "chapters/chapter-20.json"
+    },
+    {
+      "id": "chapter_21",
+      "number": 21,
+      "title": "CHAPITRE XXI",
+      "file": "chapters/chapter-21.json"
+    },
+    {
+      "id": "chapter_22",
+      "number": 22,
+      "title": "CHAPITRE XXII",
+      "file": "chapters/chapter-22.json"
+    },
+    {
+      "id": "chapter_23",
+      "number": 23,
+      "title": "CHAPITRE XXIII",
+      "file": "chapters/chapter-23.json"
+    },
+    {
+      "id": "chapter_24",
+      "number": 24,
+      "title": "CHAPITRE XXIV",
+      "file": "chapters/chapter-24.json"
+    },
+    {
+      "id": "chapter_25",
+      "number": 25,
+      "title": "CHAPITRE XXV",
+      "file": "chapters/chapter-25.json"
+    },
+    {
+      "id": "chapter_26",
+      "number": 26,
+      "title": "CHAPITRE XXVI",
+      "file": "chapters/chapter-26.json"
+    },
+    {
+      "id": "chapter_27",
+      "number": 27,
+      "title": "CHAPITRE XXVII",
+      "file": "chapters/chapter-27.json"
+    }
+  ],
+  "contentPolicy": "Original French stays separate from optional translations and modern French. Phrase segmentation is partial and must be reviewed; no rights conclusion is made here."
+}

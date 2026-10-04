@@ -1,0 +1,373 @@
+{
+  "id": "chapter_19",
+  "number": 19,
+  "title": "CHAPITRE XIX",
+  "language": "fr",
+  "textVersion": "pga-0300771h-import-v1",
+  "sourceEdition": "project-gutenberg-australia-0300771h",
+  "sourceReference": "#ppchap19",
+  "paragraphs": [
+    {
+      "id": "chapter_19_paragraph_001",
+      "sentenceIds": [
+        "chapter_19_sentence_001",
+        "chapter_19_sentence_002",
+        "chapter_19_sentence_003",
+        "chapter_19_sentence_004"
+      ],
+      "sourceReference": "#ppchap19:p1"
+    },
+    {
+      "id": "chapter_19_paragraph_002",
+      "sentenceIds": [
+        "chapter_19_sentence_005"
+      ],
+      "sourceReference": "#ppchap19:p2"
+    },
+    {
+      "id": "chapter_19_paragraph_003",
+      "sentenceIds": [
+        "chapter_19_sentence_006",
+        "chapter_19_sentence_007",
+        "chapter_19_sentence_008"
+      ],
+      "sourceReference": "#ppchap19:p3"
+    },
+    {
+      "id": "chapter_19_paragraph_004",
+      "sentenceIds": [
+        "chapter_19_sentence_009"
+      ],
+      "sourceReference": "#ppchap19:p4"
+    },
+    {
+      "id": "chapter_19_paragraph_005",
+      "sentenceIds": [
+        "chapter_19_sentence_010"
+      ],
+      "sourceReference": "#ppchap19:p5"
+    },
+    {
+      "id": "chapter_19_paragraph_006",
+      "sentenceIds": [
+        "chapter_19_sentence_011"
+      ],
+      "sourceReference": "#ppchap19:p6"
+    },
+    {
+      "id": "chapter_19_paragraph_007",
+      "sentenceIds": [
+        "chapter_19_sentence_012",
+        "chapter_19_sentence_013"
+      ],
+      "sourceReference": "#ppchap19:p7"
+    },
+    {
+      "id": "chapter_19_paragraph_008",
+      "sentenceIds": [
+        "chapter_19_sentence_014",
+        "chapter_19_sentence_015"
+      ],
+      "sourceReference": "#ppchap19:p8"
+    },
+    {
+      "id": "chapter_19_paragraph_009",
+      "sentenceIds": [
+        "chapter_19_sentence_016",
+        "chapter_19_sentence_017",
+        "chapter_19_sentence_018"
+      ],
+      "sourceReference": "#ppchap19:p9"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "chapter_19_sentence_001",
+      "originalFrench": "Le petit prince fit l'ascension d'une haute montagne.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap19:p1:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_19_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_19_sentence_002",
+      "originalFrench": "Les seules montagnes qu'il eût jamais connues étaient les trois volcans qui lui arrivaient au genou.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap19:p1:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_19_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_19_sentence_003",
+      "originalFrench": "Et il se servait du volcan éteint comme d'un tabouret. \"D'une montagne haute comme celle-ci, se dit-il donc, j'apercevrai d'un coup toute la planète et tous les hommes...\"",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap19:p1:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_19_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_19_sentence_004",
+      "originalFrench": "Mais il n'aperçut rien que des aiguilles de roc bien aiguisées.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap19:p1:s4",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_19_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_19_sentence_005",
+      "originalFrench": "-Bonjour, dit-il à tout hasard.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap19:p2:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_19_paragraph_002",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_19_sentence_006",
+      "originalFrench": "-Bonjour...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap19:p3:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_19_paragraph_003",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_19_sentence_007",
+      "originalFrench": "Bonjour...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap19:p3:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_19_paragraph_003",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_19_sentence_008",
+      "originalFrench": "Bonjour...répondit l'écho.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap19:p3:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_19_paragraph_003",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_19_sentence_009",
+      "originalFrench": "-Qui êtes-vous? dit le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap19:p4:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_19_paragraph_004",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_19_sentence_010",
+      "originalFrench": "-Qui êtes-vous...qui êtes-vous...qui êtes-vous...répondit l'écho.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap19:p5:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_19_paragraph_005",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_19_sentence_011",
+      "originalFrench": "-Soyez mes amis, je suis seul, dit-il.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap19:p6:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_19_paragraph_006",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_19_sentence_012",
+      "originalFrench": "-Je suis seul...je suis seul...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap19:p7:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_19_paragraph_007",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_19_sentence_013",
+      "originalFrench": "Je suis seul...répondit l'écho.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap19:p7:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_19_paragraph_007",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_19_sentence_014",
+      "originalFrench": "\"Quelle drôle de planète! pensa-t-il alors.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap19:p8:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_19_paragraph_008",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_19_sentence_015",
+      "originalFrench": "Elle est toute sèche, et toute pointue et toute salée.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap19:p8:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_19_paragraph_008",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_19_sentence_016",
+      "originalFrench": "Et les hommes manquent d'imagination.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap19:p9:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_19_paragraph_009",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_19_sentence_017",
+      "originalFrench": "Ils répètent ce qu'on leur dit...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap19:p9:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_19_paragraph_009",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_19_sentence_018",
+      "originalFrench": "Chez moi j'avais une fleur: elle parlait toujours la première...\"",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap19:p9:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_19_paragraph_009",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    }
+  ]
+}

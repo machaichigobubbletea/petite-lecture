@@ -1,0 +1,349 @@
+{
+  "id": "chapter_18",
+  "number": 18,
+  "title": "CHAPITRE XVIII",
+  "language": "fr",
+  "textVersion": "pga-0300771h-import-v1",
+  "sourceEdition": "project-gutenberg-australia-0300771h",
+  "sourceReference": "#ppchap18",
+  "paragraphs": [
+    {
+      "id": "chapter_18_paragraph_001",
+      "sentenceIds": [
+        "chapter_18_sentence_001",
+        "chapter_18_sentence_002"
+      ],
+      "sourceReference": "#ppchap18:p1"
+    },
+    {
+      "id": "chapter_18_paragraph_002",
+      "sentenceIds": [
+        "chapter_18_sentence_003"
+      ],
+      "sourceReference": "#ppchap18:p2"
+    },
+    {
+      "id": "chapter_18_paragraph_003",
+      "sentenceIds": [
+        "chapter_18_sentence_004"
+      ],
+      "sourceReference": "#ppchap18:p3"
+    },
+    {
+      "id": "chapter_18_paragraph_004",
+      "sentenceIds": [
+        "chapter_18_sentence_005"
+      ],
+      "sourceReference": "#ppchap18:p4"
+    },
+    {
+      "id": "chapter_18_paragraph_005",
+      "sentenceIds": [
+        "chapter_18_sentence_006"
+      ],
+      "sourceReference": "#ppchap18:p5"
+    },
+    {
+      "id": "chapter_18_paragraph_006",
+      "sentenceIds": [
+        "chapter_18_sentence_007",
+        "chapter_18_sentence_008",
+        "chapter_18_sentence_009",
+        "chapter_18_sentence_010",
+        "chapter_18_sentence_011",
+        "chapter_18_sentence_012"
+      ],
+      "sourceReference": "#ppchap18:p6"
+    },
+    {
+      "id": "chapter_18_paragraph_007",
+      "sentenceIds": [
+        "chapter_18_sentence_013"
+      ],
+      "sourceReference": "#ppchap18:p7"
+    },
+    {
+      "id": "chapter_18_paragraph_008",
+      "sentenceIds": [
+        "chapter_18_sentence_014"
+      ],
+      "sourceReference": "#ppchap18:p8"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "chapter_18_sentence_001",
+      "originalFrench": "Le petit prince traversa le désert et ne rencontra qu'une fleur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap18:p1:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_18_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_18_sentence_002",
+      "originalFrench": "Une fleur à trois pétales, une fleur de rien du tout...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap18:p1:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_18_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_18_sentence_003",
+      "originalFrench": "-Bonjour, dit le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap18:p2:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_18_paragraph_002",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_18_sentence_004",
+      "originalFrench": "-Bonjour, dit la fleur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap18:p3:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_18_paragraph_003",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_18_sentence_005",
+      "originalFrench": "-Où sont les hommes? demanda poliment le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap18:p4:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_18_paragraph_004",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_18_sentence_006",
+      "originalFrench": "La fleur, un jour, avait vu passer une caravane:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap18:p5:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_18_paragraph_005",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_18_sentence_007",
+      "originalFrench": "-Les hommes?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap18:p6:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_18_paragraph_006",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_18_sentence_008",
+      "originalFrench": "Il en existe, je crois, six ou sept.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap18:p6:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_18_paragraph_006",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_18_sentence_009",
+      "originalFrench": "Je les ai aperçus il y a des années.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap18:p6:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_18_paragraph_006",
+      "phraseSegmentationStatus": "partial-high-confidence-only",
+      "phrases": [
+        {
+          "id": "chapter_18_sentence_009_phrase_01",
+          "originalFrench": "il y a",
+          "modernFrench": null,
+          "japanese": null,
+          "english": null,
+          "grammarNotes": null,
+          "audio": null,
+          "learningData": null,
+          "phraseType": "il y a",
+          "segmentationMethod": "high-confidence-pattern-v1",
+          "characterRange": {
+            "start": 18,
+            "end": 24
+          },
+          "sourceReference": "#ppchap18:p6:s3",
+          "words": [
+            {
+              "id": "chapter_18_sentence_009_phrase_01_word_01",
+              "originalFrench": "il",
+              "modernFrench": null,
+              "japanese": null,
+              "english": null,
+              "grammarNotes": null,
+              "audio": null,
+              "learningData": null
+            },
+            {
+              "id": "chapter_18_sentence_009_phrase_01_word_02",
+              "originalFrench": "y",
+              "modernFrench": null,
+              "japanese": null,
+              "english": null,
+              "grammarNotes": null,
+              "audio": null,
+              "learningData": null
+            },
+            {
+              "id": "chapter_18_sentence_009_phrase_01_word_03",
+              "originalFrench": "a",
+              "modernFrench": null,
+              "japanese": null,
+              "english": null,
+              "grammarNotes": null,
+              "audio": null,
+              "learningData": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter_18_sentence_010",
+      "originalFrench": "Mais on ne sait jamais où les trouver.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap18:p6:s4",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_18_paragraph_006",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_18_sentence_011",
+      "originalFrench": "Le vent les promène.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap18:p6:s5",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_18_paragraph_006",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_18_sentence_012",
+      "originalFrench": "Ils manquent de racines, ça les gêne beaucoup.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap18:p6:s6",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_18_paragraph_006",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_18_sentence_013",
+      "originalFrench": "-Adieu, fit le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap18:p7:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_18_paragraph_007",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_18_sentence_014",
+      "originalFrench": "-Adieu, dit la fleur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap18:p8:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_18_paragraph_008",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    }
+  ]
+}
