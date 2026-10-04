@@ -1,0 +1,242 @@
+{
+  "id": "chapter_23",
+  "number": 23,
+  "title": "CHAPITRE XXIII",
+  "language": "fr",
+  "textVersion": "pga-0300771h-import-v1",
+  "sourceEdition": "project-gutenberg-australia-0300771h",
+  "sourceReference": "#ppchap23",
+  "paragraphs": [
+    {
+      "id": "chapter_23_paragraph_001",
+      "sentenceIds": [
+        "chapter_23_sentence_001"
+      ],
+      "sourceReference": "#ppchap23:p1"
+    },
+    {
+      "id": "chapter_23_paragraph_002",
+      "sentenceIds": [
+        "chapter_23_sentence_002",
+        "chapter_23_sentence_003",
+        "chapter_23_sentence_004"
+      ],
+      "sourceReference": "#ppchap23:p2"
+    },
+    {
+      "id": "chapter_23_paragraph_003",
+      "sentenceIds": [
+        "chapter_23_sentence_005"
+      ],
+      "sourceReference": "#ppchap23:p3"
+    },
+    {
+      "id": "chapter_23_paragraph_004",
+      "sentenceIds": [
+        "chapter_23_sentence_006",
+        "chapter_23_sentence_007",
+        "chapter_23_sentence_008"
+      ],
+      "sourceReference": "#ppchap23:p4"
+    },
+    {
+      "id": "chapter_23_paragraph_005",
+      "sentenceIds": [
+        "chapter_23_sentence_009"
+      ],
+      "sourceReference": "#ppchap23:p5"
+    },
+    {
+      "id": "chapter_23_paragraph_006",
+      "sentenceIds": [
+        "chapter_23_sentence_010"
+      ],
+      "sourceReference": "#ppchap23:p6"
+    },
+    {
+      "id": "chapter_23_paragraph_007",
+      "sentenceIds": [
+        "chapter_23_sentence_011"
+      ],
+      "sourceReference": "#ppchap23:p7"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "chapter_23_sentence_001",
+      "originalFrench": "-Bonjour, dit le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap23:p1:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_23_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_23_sentence_002",
+      "originalFrench": "-Bonjour, dit le marchand.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap23:p2:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_23_paragraph_002",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_23_sentence_003",
+      "originalFrench": "C'était un marchand de pilules perfectionnées qui apaisent la soif.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap23:p2:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_23_paragraph_002",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_23_sentence_004",
+      "originalFrench": "On en avale une par semaine et l'on n'éprouve plus le besoin de boire.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap23:p2:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_23_paragraph_002",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_23_sentence_005",
+      "originalFrench": "-Pourquoi vends-tu ça? dit le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap23:p3:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_23_paragraph_003",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_23_sentence_006",
+      "originalFrench": "-C'est une grosse économie de temps, dit le marchand.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap23:p4:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_23_paragraph_004",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_23_sentence_007",
+      "originalFrench": "Les experts ont fait des calculs.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap23:p4:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_23_paragraph_004",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_23_sentence_008",
+      "originalFrench": "On épargne cinquante-trois minutes par semaine.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap23:p4:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_23_paragraph_004",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_23_sentence_009",
+      "originalFrench": "-Et que fait-on des cinquante-trois minutes?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap23:p5:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_23_paragraph_005",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_23_sentence_010",
+      "originalFrench": "-On en fait ce que l'on veut...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap23:p6:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_23_paragraph_006",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_23_sentence_011",
+      "originalFrench": "\"Moi, se dit le petit prince, si j'avais cinquante-trois minutes à dépenser, je marcherais tout doucement vers une fontaine...\"",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap23:p7:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_23_paragraph_007",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    }
+  ]
+}

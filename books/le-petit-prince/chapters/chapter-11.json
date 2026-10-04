@@ -1,0 +1,643 @@
+{
+  "id": "chapter_11",
+  "number": 11,
+  "title": "CHAPITRE XI",
+  "language": "fr",
+  "textVersion": "pga-0300771h-import-v1",
+  "sourceEdition": "project-gutenberg-australia-0300771h",
+  "sourceReference": "#ppchap11",
+  "paragraphs": [
+    {
+      "id": "chapter_11_paragraph_001",
+      "sentenceIds": [
+        "chapter_11_sentence_001"
+      ],
+      "sourceReference": "#ppchap11:p1"
+    },
+    {
+      "id": "chapter_11_paragraph_002",
+      "sentenceIds": [
+        "chapter_11_sentence_002",
+        "chapter_11_sentence_003",
+        "chapter_11_sentence_004"
+      ],
+      "sourceReference": "#ppchap11:p2"
+    },
+    {
+      "id": "chapter_11_paragraph_003",
+      "sentenceIds": [
+        "chapter_11_sentence_005"
+      ],
+      "sourceReference": "#ppchap11:p3"
+    },
+    {
+      "id": "chapter_11_paragraph_004",
+      "sentenceIds": [
+        "chapter_11_sentence_006",
+        "chapter_11_sentence_007"
+      ],
+      "sourceReference": "#ppchap11:p4"
+    },
+    {
+      "id": "chapter_11_paragraph_005",
+      "sentenceIds": [
+        "chapter_11_sentence_008",
+        "chapter_11_sentence_009",
+        "chapter_11_sentence_010"
+      ],
+      "sourceReference": "#ppchap11:p5"
+    },
+    {
+      "id": "chapter_11_paragraph_006",
+      "sentenceIds": [
+        "chapter_11_sentence_011"
+      ],
+      "sourceReference": "#ppchap11:p6"
+    },
+    {
+      "id": "chapter_11_paragraph_007",
+      "sentenceIds": [
+        "chapter_11_sentence_012"
+      ],
+      "sourceReference": "#ppchap11:p7"
+    },
+    {
+      "id": "chapter_11_paragraph_008",
+      "sentenceIds": [
+        "chapter_11_sentence_013",
+        "chapter_11_sentence_014"
+      ],
+      "sourceReference": "#ppchap11:p8"
+    },
+    {
+      "id": "chapter_11_paragraph_009",
+      "sentenceIds": [
+        "chapter_11_sentence_015",
+        "chapter_11_sentence_016",
+        "chapter_11_sentence_017"
+      ],
+      "sourceReference": "#ppchap11:p9"
+    },
+    {
+      "id": "chapter_11_paragraph_010",
+      "sentenceIds": [
+        "chapter_11_sentence_018"
+      ],
+      "sourceReference": "#ppchap11:p10"
+    },
+    {
+      "id": "chapter_11_paragraph_011",
+      "sentenceIds": [
+        "chapter_11_sentence_019"
+      ],
+      "sourceReference": "#ppchap11:p11"
+    },
+    {
+      "id": "chapter_11_paragraph_012",
+      "sentenceIds": [
+        "chapter_11_sentence_020",
+        "chapter_11_sentence_021"
+      ],
+      "sourceReference": "#ppchap11:p12"
+    },
+    {
+      "id": "chapter_11_paragraph_013",
+      "sentenceIds": [
+        "chapter_11_sentence_022"
+      ],
+      "sourceReference": "#ppchap11:p13"
+    },
+    {
+      "id": "chapter_11_paragraph_014",
+      "sentenceIds": [
+        "chapter_11_sentence_023"
+      ],
+      "sourceReference": "#ppchap11:p14"
+    },
+    {
+      "id": "chapter_11_paragraph_015",
+      "sentenceIds": [
+        "chapter_11_sentence_024"
+      ],
+      "sourceReference": "#ppchap11:p15"
+    },
+    {
+      "id": "chapter_11_paragraph_016",
+      "sentenceIds": [
+        "chapter_11_sentence_025"
+      ],
+      "sourceReference": "#ppchap11:p16"
+    },
+    {
+      "id": "chapter_11_paragraph_017",
+      "sentenceIds": [
+        "chapter_11_sentence_026",
+        "chapter_11_sentence_027"
+      ],
+      "sourceReference": "#ppchap11:p17"
+    },
+    {
+      "id": "chapter_11_paragraph_018",
+      "sentenceIds": [
+        "chapter_11_sentence_028"
+      ],
+      "sourceReference": "#ppchap11:p18"
+    },
+    {
+      "id": "chapter_11_paragraph_019",
+      "sentenceIds": [
+        "chapter_11_sentence_029"
+      ],
+      "sourceReference": "#ppchap11:p19"
+    },
+    {
+      "id": "chapter_11_paragraph_020",
+      "sentenceIds": [
+        "chapter_11_sentence_030"
+      ],
+      "sourceReference": "#ppchap11:p20"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "chapter_11_sentence_001",
+      "originalFrench": "La seconde planète était habitée par un vaniteux:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p1:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_002",
+      "originalFrench": "-Ah!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p2:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_002",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_003",
+      "originalFrench": "Ah!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p2:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_002",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_004",
+      "originalFrench": "Voilà la visite d'un admirateur! s'écria de loin le vaniteux dès qu'il aperçut le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p2:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_002",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_005",
+      "originalFrench": "Car, pour les vaniteux, les autres hommes sont des admirateurs.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p3:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_003",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_006",
+      "originalFrench": "-Bonjour, dit le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p4:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_004",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_007",
+      "originalFrench": "Vous avez un drôle de chapeau.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p4:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_004",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_008",
+      "originalFrench": "-C'est pour saluer, lui répondit le vaniteux.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p5:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_005",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_009",
+      "originalFrench": "C'est pour saluer quand on m'acclame.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p5:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_005",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_010",
+      "originalFrench": "Malheureusement il ne passe jamais personne par ici.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p5:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_005",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_011",
+      "originalFrench": "-Ah oui? dit le petit prince qui ne comprit pas.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p6:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_006",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_012",
+      "originalFrench": "-Frappe tes mains l'une contre l'autre, conseilla donc le vaniteux.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p7:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_007",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_013",
+      "originalFrench": "Le petit prince frappa ses mains l'une contre l'autre.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p8:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_008",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_014",
+      "originalFrench": "Le vaniteux salua modestement en soulevant son chapeau.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p8:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_008",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_015",
+      "originalFrench": "-Ça c'est plus amusant que la visite du roi, se dit en lui-même le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p9:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_009",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_016",
+      "originalFrench": "Et il recommença de frapper ses mains l'une contre l'autre.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p9:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_009",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_017",
+      "originalFrench": "Le vaniteux recommença de saluer en soulevant son chapeau.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p9:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_009",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_018",
+      "originalFrench": "Après cinq minutes d'exercice le petit prince se fatigua de la monotonie du jeu:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p10:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_010",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_019",
+      "originalFrench": "-Et, pour que le chapeau tombe, demanda-t-il, que faut-il faire?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p11:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_011",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_020",
+      "originalFrench": "Mais le vaniteux ne l'entendit pas.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p12:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_012",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_021",
+      "originalFrench": "Les vaniteux n'entendent jamais que les louanges.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p12:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_012",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_022",
+      "originalFrench": "-Est-ce que tu m'admires vraiment beaucoup? demanda-t-il au petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p13:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_013",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_023",
+      "originalFrench": "-Qu'est-ce que signifie admirer?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p14:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_014",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_024",
+      "originalFrench": "-Admirer signifie reconnaître que je suis l'homme le plus beau, le mieux habillé, le plus riche et le plus intelligent de la planète.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p15:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_015",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_025",
+      "originalFrench": "-Mais tu es seul sur ta planète!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p16:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_016",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_026",
+      "originalFrench": "-Fais-moi ce plaisir.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p17:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_017",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_027",
+      "originalFrench": "Admire-moi quand-même!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p17:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_017",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_028",
+      "originalFrench": "-Je t'admire, dit le petit prince, en haussant un peu les épaules, mais en quoi cela peut-il bien t'intéresser?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p18:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_018",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_029",
+      "originalFrench": "Et le petit prince s'en fut.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p19:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_019",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_11_sentence_030",
+      "originalFrench": "Les grandes personnes sont décidément bien bizarres, se dit-il simplement en lui-même durant son voyage.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap11:p20:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_11_paragraph_020",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    }
+  ]
+}

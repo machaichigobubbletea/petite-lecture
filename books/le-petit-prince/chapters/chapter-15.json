@@ -1,0 +1,1796 @@
+{
+  "id": "chapter_15",
+  "number": 15,
+  "title": "CHAPITRE XV",
+  "language": "fr",
+  "textVersion": "pga-0300771h-import-v1",
+  "sourceEdition": "project-gutenberg-australia-0300771h",
+  "sourceReference": "#ppchap15",
+  "paragraphs": [
+    {
+      "id": "chapter_15_paragraph_001",
+      "sentenceIds": [
+        "chapter_15_sentence_001",
+        "chapter_15_sentence_002"
+      ],
+      "sourceReference": "#ppchap15:p1"
+    },
+    {
+      "id": "chapter_15_paragraph_002",
+      "sentenceIds": [
+        "chapter_15_sentence_003"
+      ],
+      "sourceReference": "#ppchap15:p2"
+    },
+    {
+      "id": "chapter_15_paragraph_003",
+      "sentenceIds": [
+        "chapter_15_sentence_004",
+        "chapter_15_sentence_005"
+      ],
+      "sourceReference": "#ppchap15:p3"
+    },
+    {
+      "id": "chapter_15_paragraph_004",
+      "sentenceIds": [
+        "chapter_15_sentence_006"
+      ],
+      "sourceReference": "#ppchap15:p4"
+    },
+    {
+      "id": "chapter_15_paragraph_005",
+      "sentenceIds": [
+        "chapter_15_sentence_007",
+        "chapter_15_sentence_008"
+      ],
+      "sourceReference": "#ppchap15:p5"
+    },
+    {
+      "id": "chapter_15_paragraph_006",
+      "sentenceIds": [
+        "chapter_15_sentence_009"
+      ],
+      "sourceReference": "#ppchap15:p6"
+    },
+    {
+      "id": "chapter_15_paragraph_007",
+      "sentenceIds": [
+        "chapter_15_sentence_010"
+      ],
+      "sourceReference": "#ppchap15:p7"
+    },
+    {
+      "id": "chapter_15_paragraph_008",
+      "sentenceIds": [
+        "chapter_15_sentence_011"
+      ],
+      "sourceReference": "#ppchap15:p8"
+    },
+    {
+      "id": "chapter_15_paragraph_009",
+      "sentenceIds": [
+        "chapter_15_sentence_012",
+        "chapter_15_sentence_013",
+        "chapter_15_sentence_014",
+        "chapter_15_sentence_015"
+      ],
+      "sourceReference": "#ppchap15:p9"
+    },
+    {
+      "id": "chapter_15_paragraph_010",
+      "sentenceIds": [
+        "chapter_15_sentence_016",
+        "chapter_15_sentence_017"
+      ],
+      "sourceReference": "#ppchap15:p10"
+    },
+    {
+      "id": "chapter_15_paragraph_011",
+      "sentenceIds": [
+        "chapter_15_sentence_018"
+      ],
+      "sourceReference": "#ppchap15:p11"
+    },
+    {
+      "id": "chapter_15_paragraph_012",
+      "sentenceIds": [
+        "chapter_15_sentence_019"
+      ],
+      "sourceReference": "#ppchap15:p12"
+    },
+    {
+      "id": "chapter_15_paragraph_013",
+      "sentenceIds": [
+        "chapter_15_sentence_020"
+      ],
+      "sourceReference": "#ppchap15:p13"
+    },
+    {
+      "id": "chapter_15_paragraph_014",
+      "sentenceIds": [
+        "chapter_15_sentence_021"
+      ],
+      "sourceReference": "#ppchap15:p14"
+    },
+    {
+      "id": "chapter_15_paragraph_015",
+      "sentenceIds": [
+        "chapter_15_sentence_022"
+      ],
+      "sourceReference": "#ppchap15:p15"
+    },
+    {
+      "id": "chapter_15_paragraph_016",
+      "sentenceIds": [
+        "chapter_15_sentence_023"
+      ],
+      "sourceReference": "#ppchap15:p16"
+    },
+    {
+      "id": "chapter_15_paragraph_017",
+      "sentenceIds": [
+        "chapter_15_sentence_024",
+        "chapter_15_sentence_025",
+        "chapter_15_sentence_026",
+        "chapter_15_sentence_027",
+        "chapter_15_sentence_028",
+        "chapter_15_sentence_029",
+        "chapter_15_sentence_030",
+        "chapter_15_sentence_031"
+      ],
+      "sourceReference": "#ppchap15:p17"
+    },
+    {
+      "id": "chapter_15_paragraph_018",
+      "sentenceIds": [
+        "chapter_15_sentence_032"
+      ],
+      "sourceReference": "#ppchap15:p18"
+    },
+    {
+      "id": "chapter_15_paragraph_019",
+      "sentenceIds": [
+        "chapter_15_sentence_033",
+        "chapter_15_sentence_034"
+      ],
+      "sourceReference": "#ppchap15:p19"
+    },
+    {
+      "id": "chapter_15_paragraph_020",
+      "sentenceIds": [
+        "chapter_15_sentence_035"
+      ],
+      "sourceReference": "#ppchap15:p20"
+    },
+    {
+      "id": "chapter_15_paragraph_021",
+      "sentenceIds": [
+        "chapter_15_sentence_036",
+        "chapter_15_sentence_037"
+      ],
+      "sourceReference": "#ppchap15:p21"
+    },
+    {
+      "id": "chapter_15_paragraph_022",
+      "sentenceIds": [
+        "chapter_15_sentence_038"
+      ],
+      "sourceReference": "#ppchap15:p22"
+    },
+    {
+      "id": "chapter_15_paragraph_023",
+      "sentenceIds": [
+        "chapter_15_sentence_039",
+        "chapter_15_sentence_040"
+      ],
+      "sourceReference": "#ppchap15:p23"
+    },
+    {
+      "id": "chapter_15_paragraph_024",
+      "sentenceIds": [
+        "chapter_15_sentence_041"
+      ],
+      "sourceReference": "#ppchap15:p24"
+    },
+    {
+      "id": "chapter_15_paragraph_025",
+      "sentenceIds": [
+        "chapter_15_sentence_042",
+        "chapter_15_sentence_043",
+        "chapter_15_sentence_044",
+        "chapter_15_sentence_045"
+      ],
+      "sourceReference": "#ppchap15:p25"
+    },
+    {
+      "id": "chapter_15_paragraph_026",
+      "sentenceIds": [
+        "chapter_15_sentence_046"
+      ],
+      "sourceReference": "#ppchap15:p26"
+    },
+    {
+      "id": "chapter_15_paragraph_027",
+      "sentenceIds": [
+        "chapter_15_sentence_047",
+        "chapter_15_sentence_048",
+        "chapter_15_sentence_049"
+      ],
+      "sourceReference": "#ppchap15:p27"
+    },
+    {
+      "id": "chapter_15_paragraph_028",
+      "sentenceIds": [
+        "chapter_15_sentence_050",
+        "chapter_15_sentence_051",
+        "chapter_15_sentence_052"
+      ],
+      "sourceReference": "#ppchap15:p28"
+    },
+    {
+      "id": "chapter_15_paragraph_029",
+      "sentenceIds": [
+        "chapter_15_sentence_053"
+      ],
+      "sourceReference": "#ppchap15:p29"
+    },
+    {
+      "id": "chapter_15_paragraph_030",
+      "sentenceIds": [
+        "chapter_15_sentence_054",
+        "chapter_15_sentence_055",
+        "chapter_15_sentence_056",
+        "chapter_15_sentence_057"
+      ],
+      "sourceReference": "#ppchap15:p30"
+    },
+    {
+      "id": "chapter_15_paragraph_031",
+      "sentenceIds": [
+        "chapter_15_sentence_058"
+      ],
+      "sourceReference": "#ppchap15:p31"
+    },
+    {
+      "id": "chapter_15_paragraph_032",
+      "sentenceIds": [
+        "chapter_15_sentence_059"
+      ],
+      "sourceReference": "#ppchap15:p32"
+    },
+    {
+      "id": "chapter_15_paragraph_033",
+      "sentenceIds": [
+        "chapter_15_sentence_060"
+      ],
+      "sourceReference": "#ppchap15:p33"
+    },
+    {
+      "id": "chapter_15_paragraph_034",
+      "sentenceIds": [
+        "chapter_15_sentence_061"
+      ],
+      "sourceReference": "#ppchap15:p34"
+    },
+    {
+      "id": "chapter_15_paragraph_035",
+      "sentenceIds": [
+        "chapter_15_sentence_062"
+      ],
+      "sourceReference": "#ppchap15:p35"
+    },
+    {
+      "id": "chapter_15_paragraph_036",
+      "sentenceIds": [
+        "chapter_15_sentence_063"
+      ],
+      "sourceReference": "#ppchap15:p36"
+    },
+    {
+      "id": "chapter_15_paragraph_037",
+      "sentenceIds": [
+        "chapter_15_sentence_064",
+        "chapter_15_sentence_065",
+        "chapter_15_sentence_066",
+        "chapter_15_sentence_067",
+        "chapter_15_sentence_068"
+      ],
+      "sourceReference": "#ppchap15:p37"
+    },
+    {
+      "id": "chapter_15_paragraph_038",
+      "sentenceIds": [
+        "chapter_15_sentence_069",
+        "chapter_15_sentence_070"
+      ],
+      "sourceReference": "#ppchap15:p38"
+    },
+    {
+      "id": "chapter_15_paragraph_039",
+      "sentenceIds": [
+        "chapter_15_sentence_071",
+        "chapter_15_sentence_072",
+        "chapter_15_sentence_073"
+      ],
+      "sourceReference": "#ppchap15:p39"
+    },
+    {
+      "id": "chapter_15_paragraph_040",
+      "sentenceIds": [
+        "chapter_15_sentence_074"
+      ],
+      "sourceReference": "#ppchap15:p40"
+    },
+    {
+      "id": "chapter_15_paragraph_041",
+      "sentenceIds": [
+        "chapter_15_sentence_075"
+      ],
+      "sourceReference": "#ppchap15:p41"
+    },
+    {
+      "id": "chapter_15_paragraph_042",
+      "sentenceIds": [
+        "chapter_15_sentence_076"
+      ],
+      "sourceReference": "#ppchap15:p42"
+    },
+    {
+      "id": "chapter_15_paragraph_043",
+      "sentenceIds": [
+        "chapter_15_sentence_077"
+      ],
+      "sourceReference": "#ppchap15:p43"
+    },
+    {
+      "id": "chapter_15_paragraph_044",
+      "sentenceIds": [
+        "chapter_15_sentence_078",
+        "chapter_15_sentence_079"
+      ],
+      "sourceReference": "#ppchap15:p44"
+    },
+    {
+      "id": "chapter_15_paragraph_045",
+      "sentenceIds": [
+        "chapter_15_sentence_080",
+        "chapter_15_sentence_081"
+      ],
+      "sourceReference": "#ppchap15:p45"
+    },
+    {
+      "id": "chapter_15_paragraph_046",
+      "sentenceIds": [
+        "chapter_15_sentence_082"
+      ],
+      "sourceReference": "#ppchap15:p46"
+    },
+    {
+      "id": "chapter_15_paragraph_047",
+      "sentenceIds": [
+        "chapter_15_sentence_083",
+        "chapter_15_sentence_084"
+      ],
+      "sourceReference": "#ppchap15:p47"
+    },
+    {
+      "id": "chapter_15_paragraph_048",
+      "sentenceIds": [
+        "chapter_15_sentence_085"
+      ],
+      "sourceReference": "#ppchap15:p48"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "chapter_15_sentence_001",
+      "originalFrench": "La sixième planète était une planète dix fois plus vaste.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p1:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_002",
+      "originalFrench": "Elle était habitée par un vieux Monsieur qui écrivait d'énormes livres.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p1:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_003",
+      "originalFrench": "-Tiens! voilà un explorateur! s'écria-t-il, quand il aperçut le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p2:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_002",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_004",
+      "originalFrench": "Le petit prince s'assit sur la table et souffla un peu.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p3:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_003",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_005",
+      "originalFrench": "Il avait déjà tant voyagé!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p3:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_003",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_006",
+      "originalFrench": "-D'où viens-tu? lui dit le vieux Monsieur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p4:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_004",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_007",
+      "originalFrench": "-Quel est ce gros livre? dit le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p5:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_005",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_008",
+      "originalFrench": "Que faites-vous ici?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p5:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_005",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_009",
+      "originalFrench": "-Je suis géographe, dit le vieux Monsieur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p6:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_006",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_010",
+      "originalFrench": "-Qu'est-ce qu'un géographe?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p7:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_007",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_011",
+      "originalFrench": "-C'est un savant qui connaît où se trouvent les mers, les fleuves, les villes, les montagnes et les déserts.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p8:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_008",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_012",
+      "originalFrench": "-Ça c'est bien intéressant, dit le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p9:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_009",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_013",
+      "originalFrench": "Ça c'est enfin un véritable métier!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p9:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_009",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_014",
+      "originalFrench": "Et il jeta un coup d'oeil autour de lui sur la planète du géographe.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p9:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_009",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_015",
+      "originalFrench": "Il n'avait jamais vu encore une planète aussi majestueuse.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p9:s4",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_009",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_016",
+      "originalFrench": "-Elle est bien belle, votre planète.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p10:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_010",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_017",
+      "originalFrench": "Est-ce qu'il y a des océans?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p10:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_010",
+      "phraseSegmentationStatus": "partial-high-confidence-only",
+      "phrases": [
+        {
+          "id": "chapter_15_sentence_017_phrase_01",
+          "originalFrench": "il y a",
+          "modernFrench": null,
+          "japanese": null,
+          "english": null,
+          "grammarNotes": null,
+          "audio": null,
+          "learningData": null,
+          "phraseType": "il y a",
+          "segmentationMethod": "high-confidence-pattern-v1",
+          "characterRange": {
+            "start": 10,
+            "end": 16
+          },
+          "sourceReference": "#ppchap15:p10:s2",
+          "words": [
+            {
+              "id": "chapter_15_sentence_017_phrase_01_word_01",
+              "originalFrench": "il",
+              "modernFrench": null,
+              "japanese": null,
+              "english": null,
+              "grammarNotes": null,
+              "audio": null,
+              "learningData": null
+            },
+            {
+              "id": "chapter_15_sentence_017_phrase_01_word_02",
+              "originalFrench": "y",
+              "modernFrench": null,
+              "japanese": null,
+              "english": null,
+              "grammarNotes": null,
+              "audio": null,
+              "learningData": null
+            },
+            {
+              "id": "chapter_15_sentence_017_phrase_01_word_03",
+              "originalFrench": "a",
+              "modernFrench": null,
+              "japanese": null,
+              "english": null,
+              "grammarNotes": null,
+              "audio": null,
+              "learningData": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter_15_sentence_018",
+      "originalFrench": "-Je ne puis pas le savoir, dit le géographe.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p11:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_011",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_019",
+      "originalFrench": "-Ah! (Le petit prince était déçu.) Et des montagnes?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p12:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_012",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_020",
+      "originalFrench": "-Je ne puis pas le savoir, dit le géographe.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p13:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_013",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_021",
+      "originalFrench": "-Et des villes et des fleuves et des déserts?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p14:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_014",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_022",
+      "originalFrench": "-Je ne puis pas le savoir non plus, dit le géographe.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p15:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_015",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_023",
+      "originalFrench": "-Mais vous êtes géographe!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p16:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_016",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_024",
+      "originalFrench": "-C'est exact, dit le géographe, mais je ne suis pas explorateur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p17:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_017",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_025",
+      "originalFrench": "Je manque absolument d'explorateurs.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p17:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_017",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_026",
+      "originalFrench": "Ce n'est pas le géographe qui va faire le compte des villes, des fleuves, des montagnes, des mers, des océans et des déserts.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p17:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_017",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_027",
+      "originalFrench": "Le géographe est trop important pour flâner.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p17:s4",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_017",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_028",
+      "originalFrench": "Il ne quitte pas son bureau.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p17:s5",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_017",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_029",
+      "originalFrench": "Mais il y reçoit les explorateurs.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p17:s6",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_017",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_030",
+      "originalFrench": "Il les interroge, et il prend en note leurs souvenirs.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p17:s7",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_017",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_031",
+      "originalFrench": "Et si les souvenirs de l'un d'entre eux lui paraissent intéressants, le géographe fait une enquête sur la moralité de l'explorateur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p17:s8",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_017",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_032",
+      "originalFrench": "-Pourquoi ça?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p18:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_018",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_033",
+      "originalFrench": "-Parce qu'un explorateur qui mentirait entraînerait des catastrophes dans les livres de géographie.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p19:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_019",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_034",
+      "originalFrench": "Et aussi un explorateur qui boirait trop.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p19:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_019",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_035",
+      "originalFrench": "-Pourquoi ça? fit le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p20:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_020",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_036",
+      "originalFrench": "-Parce que les ivrognes voient double.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p21:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_021",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_037",
+      "originalFrench": "Alors le géographe noterait deux montagnes, là où il n'y en a qu'un seule.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p21:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_021",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_038",
+      "originalFrench": "-Je connais quelqu'un, dit le petit prince, qui serait mauvais explorateur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p22:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_022",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_039",
+      "originalFrench": "-C'est possible.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p23:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_023",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_040",
+      "originalFrench": "Donc, quand la moralité de l'explorateur paraît bonne, on fait faire une enquête sur sa découverte.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p23:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_023",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_041",
+      "originalFrench": "-On va voir?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p24:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_024",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_042",
+      "originalFrench": "-Non.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p25:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_025",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_043",
+      "originalFrench": "C'est trop compliqué.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p25:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_025",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_044",
+      "originalFrench": "Mais on exige de l'explorateur qu'il fournisse de preuves.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p25:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_025",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_045",
+      "originalFrench": "Si'il s'agit par example de la découverte d'une grosse montagne, on exige qu'il en rapporte de grosses pierres.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p25:s4",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_025",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_046",
+      "originalFrench": "Le géographe soudain s'émut.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p26:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_026",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_047",
+      "originalFrench": "-Mais toi, tu viens de loin!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p27:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_027",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_048",
+      "originalFrench": "Tu es explorateur!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p27:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_027",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_049",
+      "originalFrench": "Tu vas me décrire ta planète!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p27:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_027",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_050",
+      "originalFrench": "Et le géographe, ayant ouvert son registre, tailla son crayon.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p28:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_028",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_051",
+      "originalFrench": "On note d'abord au crayon les récits des explorateurs.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p28:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_028",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_052",
+      "originalFrench": "On attend, pour noter à l'encre, que l'explorateur ait fourni des preuves.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p28:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_028",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_053",
+      "originalFrench": "-Alors? interrogea le géographe.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p29:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_029",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_054",
+      "originalFrench": "-Oh! chez moi, dit le petit prince, ce n'est pas très intéressant, c'est tout petit.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p30:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_030",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_055",
+      "originalFrench": "J'ai trois volcans.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p30:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_030",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_056",
+      "originalFrench": "Deux volcans en activité, et un volcan éteint.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p30:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_030",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_057",
+      "originalFrench": "Mais on ne sait jamais.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p30:s4",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_030",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_058",
+      "originalFrench": "-On ne sait jamais, dit le géographe.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p31:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_031",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_059",
+      "originalFrench": "-J'ai aussi une fleur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p32:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_032",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_060",
+      "originalFrench": "-Nous ne notons pas les fleurs, dit le géographe.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p33:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_033",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_061",
+      "originalFrench": "-Pourquoi ça! c'est le plus joli!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p34:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_034",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_062",
+      "originalFrench": "-Parce que les fleurs sont éphémères.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p35:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_035",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_063",
+      "originalFrench": "-Qu'est ce que signifie: \"éphémère\"?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p36:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_036",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_064",
+      "originalFrench": "-Les géographies, dit le géographe, sont les livres les plus sérieux de tous les livres.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p37:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_037",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_065",
+      "originalFrench": "Elles ne se démodent jamais.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p37:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_037",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_066",
+      "originalFrench": "Il est tres rare qu'une montagne change de place.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p37:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_037",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_067",
+      "originalFrench": "Il est très rare qu'un océan se vide de son eau.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p37:s4",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_037",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_068",
+      "originalFrench": "Nous écrivons des choses éternelles.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p37:s5",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_037",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_069",
+      "originalFrench": "-Mais les volcans éteints peuvent se réveiller, interrompit le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p38:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_038",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_070",
+      "originalFrench": "Qu'est -ce que signifie \"éphémère\"?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p38:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_038",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_071",
+      "originalFrench": "-Que les volcans soient éteints ou soient éveillés, ça revient au même pour nous autres, dit le géographe.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p39:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_039",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_072",
+      "originalFrench": "Ce qui compte pour nous, c'est la montagne.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p39:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_039",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_073",
+      "originalFrench": "Elle ne change pas.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p39:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_039",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_074",
+      "originalFrench": "-Mais qu'est-ce que signifie \"éphémère\"? répéta le petit prince qui, de sa vie, n'avait renoncé à une question, une fois qu'il l'avait posée.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p40:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_040",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_075",
+      "originalFrench": "-Ça signifie \"qui est menacé de disparition prochaine\".",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p41:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_041",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_076",
+      "originalFrench": "-Ma fleur est menacée de disparition prochaine?",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p42:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_042",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_077",
+      "originalFrench": "-Bien sûr.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p43:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_043",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_078",
+      "originalFrench": "Ma fleur est éphémère, se dit le petit prince, et elle n'a que quatre épines pour se défendre contre le monde!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p44:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_044",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_079",
+      "originalFrench": "Et je l'ai laissée toute seule chez moi!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p44:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_044",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_080",
+      "originalFrench": "Ce fut là son premier mouvement de regret.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p45:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_045",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_081",
+      "originalFrench": "Mais il reprit courage:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p45:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_045",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_082",
+      "originalFrench": "-Que me conseillez-vous d'aller visiter? demanda-t-il.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p46:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_046",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_083",
+      "originalFrench": "-La planète Terre, lui répondit le géographe.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p47:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_047",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_084",
+      "originalFrench": "Elle a une bonne réputation...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p47:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_047",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_15_sentence_085",
+      "originalFrench": "Et le petit prince s'en fut, songeant à sa fleur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap15:p48:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_15_paragraph_048",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    }
+  ]
+}

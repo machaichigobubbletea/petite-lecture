@@ -1,0 +1,283 @@
+{
+  "id": "chapter_12",
+  "number": 12,
+  "title": "CHAPITRE XII",
+  "language": "fr",
+  "textVersion": "pga-0300771h-import-v1",
+  "sourceEdition": "project-gutenberg-australia-0300771h",
+  "sourceReference": "#ppchap12",
+  "paragraphs": [
+    {
+      "id": "chapter_12_paragraph_001",
+      "sentenceIds": [
+        "chapter_12_sentence_001",
+        "chapter_12_sentence_002"
+      ],
+      "sourceReference": "#ppchap12:p1"
+    },
+    {
+      "id": "chapter_12_paragraph_002",
+      "sentenceIds": [
+        "chapter_12_sentence_003"
+      ],
+      "sourceReference": "#ppchap12:p2"
+    },
+    {
+      "id": "chapter_12_paragraph_003",
+      "sentenceIds": [
+        "chapter_12_sentence_004"
+      ],
+      "sourceReference": "#ppchap12:p3"
+    },
+    {
+      "id": "chapter_12_paragraph_004",
+      "sentenceIds": [
+        "chapter_12_sentence_005"
+      ],
+      "sourceReference": "#ppchap12:p4"
+    },
+    {
+      "id": "chapter_12_paragraph_005",
+      "sentenceIds": [
+        "chapter_12_sentence_006"
+      ],
+      "sourceReference": "#ppchap12:p5"
+    },
+    {
+      "id": "chapter_12_paragraph_006",
+      "sentenceIds": [
+        "chapter_12_sentence_007"
+      ],
+      "sourceReference": "#ppchap12:p6"
+    },
+    {
+      "id": "chapter_12_paragraph_007",
+      "sentenceIds": [
+        "chapter_12_sentence_008"
+      ],
+      "sourceReference": "#ppchap12:p7"
+    },
+    {
+      "id": "chapter_12_paragraph_008",
+      "sentenceIds": [
+        "chapter_12_sentence_009"
+      ],
+      "sourceReference": "#ppchap12:p8"
+    },
+    {
+      "id": "chapter_12_paragraph_009",
+      "sentenceIds": [
+        "chapter_12_sentence_010"
+      ],
+      "sourceReference": "#ppchap12:p9"
+    },
+    {
+      "id": "chapter_12_paragraph_010",
+      "sentenceIds": [
+        "chapter_12_sentence_011"
+      ],
+      "sourceReference": "#ppchap12:p10"
+    },
+    {
+      "id": "chapter_12_paragraph_011",
+      "sentenceIds": [
+        "chapter_12_sentence_012"
+      ],
+      "sourceReference": "#ppchap12:p11"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "chapter_12_sentence_001",
+      "originalFrench": "La planète suivante était habitée par un buveur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap12:p1:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_12_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_12_sentence_002",
+      "originalFrench": "Cette visite fut très courte mais elle plongea le petit prince dans une grande mélancolie:",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap12:p1:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_12_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_12_sentence_003",
+      "originalFrench": "-Que fais-tu là? dit-il au buveur, qu'il trouva installé en silence devant une collection de bouteilles vides et une collection de bouteilles pleines.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap12:p2:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_12_paragraph_002",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_12_sentence_004",
+      "originalFrench": "-Je bois, répondit le buveur, d'un air lugubre.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap12:p3:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_12_paragraph_003",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_12_sentence_005",
+      "originalFrench": "-Pourquoi bois-tu? lui demanda le petit prince.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap12:p4:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_12_paragraph_004",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_12_sentence_006",
+      "originalFrench": "-Pour oublier, répondit le buveur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap12:p5:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_12_paragraph_005",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_12_sentence_007",
+      "originalFrench": "-Pour oublier quoi? s'enquit le petit prince qui déjà le plaignait.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap12:p6:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_12_paragraph_006",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_12_sentence_008",
+      "originalFrench": "-Pour oublier que j'ai honte, avoua le buveur en baissant la tête.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap12:p7:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_12_paragraph_007",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_12_sentence_009",
+      "originalFrench": "-Honte de quoi? s'informa le petit prince qui désirait le secourir.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap12:p8:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_12_paragraph_008",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_12_sentence_010",
+      "originalFrench": "-Honte de boire! acheva le buveur qui s'enferma définitivement dans le silence.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap12:p9:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_12_paragraph_009",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_12_sentence_011",
+      "originalFrench": "Et le petit prince s'en fut, perplexe.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap12:p10:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_12_paragraph_010",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_12_sentence_012",
+      "originalFrench": "Les grandes personnes sont décidément très très bizarres, se disait-il en lui-même durant le voyage.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap12:p11:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_12_paragraph_011",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "id": "chapter_20",
+  "number": 20,
+  "title": "CHAPITRE XX",
+  "language": "fr",
+  "textVersion": "pga-0300771h-import-v1",
+  "sourceEdition": "project-gutenberg-australia-0300771h",
+  "sourceReference": "#ppchap20",
+  "paragraphs": [
+    {
+      "id": "chapter_20_paragraph_001",
+      "sentenceIds": [
+        "chapter_20_sentence_001",
+        "chapter_20_sentence_002"
+      ],
+      "sourceReference": "#ppchap20:p1"
+    },
+    {
+      "id": "chapter_20_paragraph_002",
+      "sentenceIds": [
+        "chapter_20_sentence_003"
+      ],
+      "sourceReference": "#ppchap20:p2"
+    },
+    {
+      "id": "chapter_20_paragraph_003",
+      "sentenceIds": [
+        "chapter_20_sentence_004"
+      ],
+      "sourceReference": "#ppchap20:p3"
+    },
+    {
+      "id": "chapter_20_paragraph_004",
+      "sentenceIds": [
+        "chapter_20_sentence_005"
+      ],
+      "sourceReference": "#ppchap20:p4"
+    },
+    {
+      "id": "chapter_20_paragraph_005",
+      "sentenceIds": [
+        "chapter_20_sentence_006",
+        "chapter_20_sentence_007"
+      ],
+      "sourceReference": "#ppchap20:p5"
+    },
+    {
+      "id": "chapter_20_paragraph_006",
+      "sentenceIds": [
+        "chapter_20_sentence_008"
+      ],
+      "sourceReference": "#ppchap20:p6"
+    },
+    {
+      "id": "chapter_20_paragraph_007",
+      "sentenceIds": [
+        "chapter_20_sentence_009"
+      ],
+      "sourceReference": "#ppchap20:p7"
+    },
+    {
+      "id": "chapter_20_paragraph_008",
+      "sentenceIds": [
+        "chapter_20_sentence_010"
+      ],
+      "sourceReference": "#ppchap20:p8"
+    },
+    {
+      "id": "chapter_20_paragraph_009",
+      "sentenceIds": [
+        "chapter_20_sentence_011",
+        "chapter_20_sentence_012",
+        "chapter_20_sentence_013"
+      ],
+      "sourceReference": "#ppchap20:p9"
+    },
+    {
+      "id": "chapter_20_paragraph_010",
+      "sentenceIds": [
+        "chapter_20_sentence_014",
+        "chapter_20_sentence_015"
+      ],
+      "sourceReference": "#ppchap20:p10"
+    },
+    {
+      "id": "chapter_20_paragraph_011",
+      "sentenceIds": [
+        "chapter_20_sentence_016",
+        "chapter_20_sentence_017",
+        "chapter_20_sentence_018"
+      ],
+      "sourceReference": "#ppchap20:p11"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "chapter_20_sentence_001",
+      "originalFrench": "Mais il arriva que le petit prince, ayant longtemps marché à travers les sables, les rocs et les neiges, découvrit enfin une route.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap20:p1:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_20_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_20_sentence_002",
+      "originalFrench": "Et les routes vont toutes chez les hommes.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap20:p1:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_20_paragraph_001",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_20_sentence_003",
+      "originalFrench": "-Bonjour, dit-il.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap20:p2:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_20_paragraph_002",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_20_sentence_004",
+      "originalFrench": "C'était un jardin fleuri de roses.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap20:p3:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_20_paragraph_003",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_20_sentence_005",
+      "originalFrench": "-Bonjour, dirent les roses.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap20:p4:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_20_paragraph_004",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_20_sentence_006",
+      "originalFrench": "Le petit prince les regarda.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap20:p5:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_20_paragraph_005",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_20_sentence_007",
+      "originalFrench": "Elles ressemblaient toutes à sa fleur.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap20:p5:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_20_paragraph_005",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_20_sentence_008",
+      "originalFrench": "-Qui êtes-vous? leur demanda-t-il, stupéfait.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap20:p6:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_20_paragraph_006",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_20_sentence_009",
+      "originalFrench": "-Nous sommes des roses, dirent les roses.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap20:p7:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_20_paragraph_007",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_20_sentence_010",
+      "originalFrench": "-Ah! fit le petit prince...",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap20:p8:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_20_paragraph_008",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_20_sentence_011",
+      "originalFrench": "Et il se sentit très malheureux.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap20:p9:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_20_paragraph_009",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_20_sentence_012",
+      "originalFrench": "Sa fleur lui avait raconté qu'elle était seule de son espèce dans l'univers.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap20:p9:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_20_paragraph_009",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_20_sentence_013",
+      "originalFrench": "Et voici qu'il en était cinq mille, toutes semblables, dans un seul jardin!",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap20:p9:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_20_paragraph_009",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_20_sentence_014",
+      "originalFrench": "\"Elle serait bien vexée, se dit-il, si elle voyait ça...elle tousserait énormément et ferait semblant de mourir pour échapper au ridicule.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap20:p10:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_20_paragraph_010",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_20_sentence_015",
+      "originalFrench": "Et je serais bien obligé de faire semblant de la soigner, car, sinon, pour m'humilier moi aussi, elle se laisserait vraiment mourir...\"",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap20:p10:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_20_paragraph_010",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_20_sentence_016",
+      "originalFrench": "Puis il se dit encore: \"Je me croyais riche d'une fleur unique, et je ne possède qu'une rose ordinaire.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap20:p11:s1",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_20_paragraph_011",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_20_sentence_017",
+      "originalFrench": "Ça et mes trois volcans qui m'arrivent au genou, et dont l'un, peut-être, est éteint pour toujours, ça ne fait pas de moi un bien grand prince...\"",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap20:p11:s2",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_20_paragraph_011",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    },
+    {
+      "id": "chapter_20_sentence_018",
+      "originalFrench": "Et, couché dans l'herbe, il pleura.",
+      "modernFrench": null,
+      "japanese": null,
+      "english": null,
+      "grammarNotes": null,
+      "audio": null,
+      "learningData": null,
+      "sourceEdition": "project-gutenberg-australia-0300771h",
+      "sourceReference": "#ppchap20:p11:s3",
+      "textVersion": "pga-0300771h-import-v1",
+      "paragraphId": "chapter_20_paragraph_011",
+      "phraseSegmentationStatus": "not-reviewed",
+      "phrases": []
+    }
+  ]
+}

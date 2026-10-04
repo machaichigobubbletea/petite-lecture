@@ -1,0 +1,59 @@
+{
+  "bookId": "le-petit-prince",
+  "chapterId": "chapter-03",
+  "styleId": "v4-b-comfort",
+  "voiceName": "Marie",
+  "voiceId": "sANWqF1bCMzR6eyZbCGw",
+  "modelId": "eleven_v4",
+  "languageCode": "fr",
+  "stability": 0.4,
+  "audioTags": [],
+  "productionProfile": "sANWqF1bCMzR6eyZbCGw--eleven_v4--fr",
+  "requestId": "PMzGypFt7GXNqvniG9Gh",
+  "previousRequestIds": [
+    "2gg3ErkzvKa1kO3VzFVf",
+    "xMUsWjjM6Q0EFUY2VNLd"
+  ],
+  "sourceAudioChecksum": "735c7addebea27606c098ee3e5801af1484343dcc1f7d6379c9405ec4c6074bb",
+  "sourceRawAudioChecksum": "735c7addebea27606c098ee3e5801af1484343dcc1f7d6379c9405ec4c6074bb",
+  "outputAudioChecksum": "2bf922219ee6665ff8d6ae25106c9275cdfda7a1361141fdbd99a1f644d741e9",
+  "finalAudioChecksum": "2bf922219ee6665ff8d6ae25106c9275cdfda7a1361141fdbd99a1f644d741e9",
+  "sourceDurationSeconds": 143.12,
+  "outputDurationSeconds": 151.4318367346939,
+  "finalDurationSeconds": 151.4318367346939,
+  "fileSize": 2422908,
+  "processingVersion": 1,
+  "pauseProcessing": {
+    "thresholdDbfs": -45.0,
+    "minimumSilenceSeconds": 0.12,
+    "mediumPauseRange": {
+      "minSeconds": 0.4,
+      "maxSecondsExclusive": 0.8
+    },
+    "mediumPauseExtensionSeconds": 0.15,
+    "longPauseMinimumSeconds": 0.8,
+    "longPauseExtensionSeconds": 0.3,
+    "frameSeconds": 0.02,
+    "leadingAndTrailingSilenceExtended": false,
+    "modifiedPauseCount": 49,
+    "mediumModifiedCount": 43,
+    "longModifiedCount": 6,
+    "addedSilenceSeconds": 8.25
+  },
+  "speechTimeStretched": false,
+  "pitchChanged": false,
+  "gainChanged": false,
+  "equalizationApplied": false,
+  "compressionApplied": false,
+  "noiseReductionApplied": false,
+  "mp3Reencoded": true,
+  "warnings": [],
+  "promotion": {
+    "sourceAuditionPath": "books/le-petit-prince/audio/reader-narration/prototypes/chapter-03-pacing-audition/chapter-03-v4-pause-extended-full.mp3",
+    "sourceAuditionChecksum": "2bf922219ee6665ff8d6ae25106c9275cdfda7a1361141fdbd99a1f644d741e9",
+    "method": "byte-identical-copy",
+    "pauseMetricsEvidence": "read-only source PCM pause detection and final duration cross-check",
+    "durationDifferenceFromExpectedSeconds": 0.061836735,
+    "promotedAt": "2026-10-04T06:28:08.948073+00:00"
+  }
+}
